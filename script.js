@@ -106,7 +106,7 @@
   }
 }( jQuery ));
 
-$('#ActivityDIV'   ).makeSVGcolor('https://svgsilh.com/svg/33437.svg')
+$('#ActivityDIV'   ).makeSVGcolor('https://s3-us-west-2.amazonaws.com/s.cdpn.io/40041/cheshire.svg')
 $('#btnRandom'     ).btnRandom()
 $('#btnClear'      ).btnClear()
 $('#btnDownloadSVG').btnDownload()
